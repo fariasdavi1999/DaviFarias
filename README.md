@@ -1,11 +1,6 @@
 # Davi Farias do Nascimento
 
-Olá me chamo Davi, sou Analista Desenvolvedor de software, sempre em desenvolvimento.
-Estabelecendo relações positivas com meus colegas de trabalho, e buscando sempre
-ser uma pessoa colaborativa, ética e empática. Acredito que, através desses valores,
-posso fazer a diferença tanto dentro quanto fora do ambiente de trabalho. O
-aprimoramento contínuo de minhas habilidades interpessoais é fundamental para
-construir relacionamentos saudáveis e alcançar o sucesso em projetos e equipes.
+Analista Desenvolvedor Java com experiência em sistemas corporativos, APIs REST/SOAP e microsserviços. Atuação em ambientes ágeis, com foco em qualidade de código e integração contínua, aplicando boas práticas e colaboração em equipes multidisciplinares.
 
 ## 🔗 Links/Contato
 
@@ -32,4 +27,3 @@ construir relacionamentos saudáveis e alcançar o sucesso em projetos e equipes
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fariasdavi1999&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2&custom_title=Most%20used%20languages" alt="chart lang"/>
